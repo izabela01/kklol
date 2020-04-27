@@ -37,7 +37,7 @@ and open the template in the editor.
                 <dl>Forwards</dl>
                 <dd> - Expected to Scrum, normally players are strongest on the pitch and enjoy contact.</dd>
                 <dl>Backs</dl>
-                <dd>Players who enjoy running at fast paces and have good long passing ability.</dd>
+                <dd>Players who enjoy running at fast paces and have very strong passing ability</dd>
         
                
         
