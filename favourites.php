@@ -33,7 +33,7 @@ and open the template in the editor.
                 </tr>
                 
                 
-                <h2> A lala of the players </h2>
+                <h2> A Description of the players </h2>
                 <dl>Forwards</dl>
                 <dd> - Expected to Scrum, normally players are strongest on the pitch and enjoy contact.</dd>
                 <dl>Backs</dl>
