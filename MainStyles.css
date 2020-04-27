@@ -1,0 +1,17 @@
+body  {
+       font: 16x Verdana, sans-serif;
+       line-height: 1.8;
+       color:black;
+}
+h1, h2, h3, h4, h5{
+    font: 18px; color:darkmagenta;
+}
+
+p {
+    background-color: pink;
+    color: darkgray;
+}
+
+.ugly { background-color: orange;}
+
+ #greenit{color:#AEE5D8;}
