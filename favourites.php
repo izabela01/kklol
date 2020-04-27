@@ -28,14 +28,14 @@ and open the template in the editor.
                     <td>12</td>
                     <td>13</td>
                     <td>14</td>
-                    <td>14</td>
+                    <td>15</td>
                     
                 </tr>
                 
                 
                 <h2> A Description of the players </h2>
                 <dl>Forwards</dl>
-                <dd> - Expected to Scrim, normally players are strongest on the pitch and enjoy contact.</dd>
+                <dd> - Expected to Scrum, normally players are strongest on the pitch and enjoy contact.</dd>
                 <dl>Backs</dl>
                 <dd>Players who enjoy running at fast paces and have good long passing ability.</dd>
         
